@@ -96,8 +96,8 @@ echo -e "IP                : $IP"
 echo -e "ISP               : $ISP"
 echo -e "CITY              : $CITY"
 echo -e "Host/Ip           : $domain"
-echo -e "Port NoobzVpn SSL : 8443"
-echo -e "Port NoobzVpn     : 8880"
+echo -e "Port NoobzVpn SSL : 443"
+echo -e "Port NoobzVpn     : 80"
 garis
 echo -e "Save Link Account: https://$domain:81/noobzvpns-$user.txt"
 garis
@@ -177,7 +177,7 @@ echo -e "ISP               : $ISP"
 echo -e "CITY              : $CITY"
 echo -e "Host/Ip           : $domain"
 echo -e "Port NoobzVpn SSL : 443"
-echo -e "Port NoobzVpn    : 80"
+echo -e "Port NoobzVpn     : 80"
 garis
 echo -e "Save Link Account: https://$domain:81/noobzvpns-$user.txt"
 garis
