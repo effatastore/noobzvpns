@@ -69,8 +69,8 @@ ISP               : $ISP
 CITY              : $CITY
 Host/Ip           : $domain
 
-Port Noozvpns SSL : 443
-Port Noozvpns     : 80
+Port Noozvpns SSL : 8443
+Port Noozvpns     : 8080
 Pubkey           : $serverpub
 ${xdxlgaris}
 Payload Websocket NTLS: 
@@ -96,8 +96,8 @@ echo -e "IP                : $IP"
 echo -e "ISP               : $ISP"
 echo -e "CITY              : $CITY"
 echo -e "Host/Ip           : $domain"
-echo -e "Port NoobzVpn SSL : 443"
-echo -e "Port NoobzVpn     : 80"
+echo -e "Port NoobzVpn SSL : 8443"
+echo -e "Port NoobzVpn     : 8080"
 garis
 echo -e "Save Link Account: https://$domain:81/noobzvpns-$user.txt"
 garis
@@ -149,8 +149,8 @@ ISP               : $ISP
 CITY              : $CITY
 Host/Ip           : $domain
 
-Port Noozvpns SSL : 443
-Port Noozvpns     : 80
+Port Noozvpns SSL : 8443
+Port Noozvpns     : 8080
 Pubkey           : $serverpub
 ${xdxlgaris}
 Payload Websocket nTLS: 
@@ -176,8 +176,8 @@ echo -e "IP                : $IP"
 echo -e "ISP               : $ISP"
 echo -e "CITY              : $CITY"
 echo -e "Host/Ip           : $domain"
-echo -e "Port NoobzVpn SSL : 443"
-echo -e "Port NoobzVpn     : 80"
+echo -e "Port NoobzVpn SSL : 8443"
+echo -e "Port NoobzVpn     : 8080"
 garis
 echo -e "Save Link Account: https://$domain:81/noobzvpns-$user.txt"
 garis
