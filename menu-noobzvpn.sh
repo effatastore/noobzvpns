@@ -233,7 +233,7 @@ echo -e "05.MENU UNLOCK ACCOUNT NOOBZVPNS"
 echo -e "06.MENU SHOW ALL USER NOOBZVPNS"
 echo -e "07.MENU REMOVE ALL USER NOOBZVPNS"
 echo -e "${GREEN}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m${NC}"
-echo -e "${GREEN}| \E[44;1;39m            °GRETONGERS VPN PREMIUIM°            \E[0m|"
+echo -e "${GREEN}| \E[44;1;39m            °EFFATA TUNNELING°            \E[0m|"
 echo -e "${GREEN}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m${NC}"
 echo -e ""
 echo
